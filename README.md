@@ -1,6 +1,6 @@
 ### Hi there 💬
 
-![노션 바로가기](https://nullyng.notion.site/Juyoung-Kim-6aa48d3e5a73454784f418ce02837a23?pvs=4)
+[노션 바로가기](https://nullyng.notion.site/Juyoung-Kim-6aa48d3e5a73454784f418ce02837a23?pvs=4)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullyng&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
